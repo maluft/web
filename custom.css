@@ -1,0 +1,16 @@
+    body {
+        color: #0c0230;
+        background: #f8f7fa;
+		font-family: 'Open Sans', sans-serif;
+	}
+    .col-lg{
+        margin: 20px 0;
+    }
+	.table-wrapper {
+		width:  900px;
+		margin: 60px auto;
+        background: #fff;
+        padding: 20px;	
+        box-shadow: 0 1px 1px rgba(0,0,0,.05);
+        border-radius: 5px;
+    }
